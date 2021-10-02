@@ -9,7 +9,7 @@ React Enthusiast
 Self-Taught
 <br />
 
-## Social:
+## Follow me:
 
 [GitHub](https://github.com/quangnguyen17/)
 <br />
