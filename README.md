@@ -4,10 +4,6 @@ Software Engineer
 <br />
 Front End Engineer
 <br />
-React Enthusiast
-<br />
-Self-Taught
-<br />
 
 ## Follow me:
 
