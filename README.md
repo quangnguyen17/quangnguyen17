@@ -1,10 +1,5 @@
 # Hi, I'm Quang 🧑🏻‍💻 💻
 
-Software Engineer
-<br />
-Front End Engineer
-<br />
-
 ## Follow me:
 
 [GitHub](https://github.com/quangnguyen17/)
