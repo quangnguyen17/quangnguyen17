@@ -1,4 +1,4 @@
-<h1>Hi, I'm Quang.</h1>
+<h1>Hi! I'm Quang 👋🏻</h1>
 
 <span>Self-Taught 📚</span><br />
 <span>Open Source 🌐</span><br />
