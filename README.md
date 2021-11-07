@@ -4,7 +4,7 @@
 <span>Open Source 🌐</span><br />
 <span>Developer 🧑🏻‍💻</span><br />
 
-<h2>Let's connect!</h2>
+<h2>Connect with me!</h2>
 
 <a href="https://www.hackerrank.com/wan15112001">HackerRank</a><br />
 <a href="https://www.linkedin.com/in/quangnguyen2001">LinkedIn</a><br />
