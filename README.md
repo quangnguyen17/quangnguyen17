@@ -7,8 +7,6 @@ I’ve worked as a **frontend & full-stack engineer** at places like **DoorDash*
 
 I’m currently open to **new opportunities, collabs, side projects, or anything fun and interesting** 🚀
 
----
-
 ## ⚙️ What I Do
 
 **Mostly**
@@ -25,20 +23,18 @@ I’m currently open to **new opportunities, collabs, side projects, or anything
 
 I’ve built consumer apps, enterprise tools, APIs, and a bunch of “how did this start as an idea?” projects.
 
----
-
 ## 🧠 How I Work
 
 - Product-minded, not just ticket-minded
 - Big fan of clean code, good UX, and clear communication
 - Comfortable owning features end-to-end
 
----
-
 ## 🤝 Say Hi
 
 - GitHub: https://github.com/quangnguyen17
 - LinkedIn: https://linkedin.com/in/quangnguyen2001
+- Instagram: https://www.instagram.com/quang_dng20
+- Resume: https://github.com/quangnguyen17/quangnguyen17/blob/master/resume.pdf
 - Email: quangnguyen15001@gmail.com
 
 If you’re building something cool (or weird), let’s talk.
