@@ -1,11 +1,6 @@
 # 👋 Hey, I’m Quang
 
-Software engineer based in **LA / Orange County**.  
-I like building things that feel good to use and actually ship.
-
-I’ve worked as a **frontend & full-stack engineer** at places like **DoorDash** and **Rivian**, building everything from high-traffic consumer web experiences to internal enterprise tools. I’m self-taught, design-minded, and happiest when I’m turning vague ideas into real products.
-
-I’m currently open to **new opportunities, collabs, side projects, or anything fun and interesting** 🚀
+Software engineer based in **Los Angeles / Orange County**. I like building things that feel good to use and actually ship. I’ve worked as a **frontend & full-stack engineer** at places like **DoorDash** and **Rivian**, building everything from high-traffic consumer web experiences to internal enterprise tools. I’m self-taught, design-minded, and happiest when I’m turning vague ideas into real products. I’m currently open to **new opportunities, collabs, side projects, or anything fun and interesting** 🚀
 
 ## ⚙️ What I Do
 
